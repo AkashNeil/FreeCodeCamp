@@ -1,4 +1,4 @@
-# MyAlgorithmsForFreeCodeCamp
+# My algorithms for freeCodeCamp
 
 ![freeCodeCamp](https://cdn-images-1.medium.com/max/1200/1*USVOsF5qZ-lwf3OEmDZpJw.png)
 
